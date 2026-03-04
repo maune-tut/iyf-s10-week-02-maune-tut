@@ -1,8 +1,8 @@
-# Week 1: My Portfolio Website
+# Week 2:  CSS Mastery - Responsive Portfolio
 
 ## Author
 - **Name:** Nyamal Maune 🫧
-- **GitHub:** [@maune-tut](https://github.com/maune-tut/iyf-s10-20-maune-tut)
+- **GitHub:** [@maune-tut](https://github.com/maune-tut/iyf-s10-02-maune-tut)
 - **Date:** March 2, 2026
 
 ## Project Description
@@ -25,7 +25,7 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 ## How to Run
 1. Clone this repository:  
    ```bash
-   https://github.com/maune-tut/iyf-s10-20-maune-tut
+   (https://github.com/maune-tut/iyf-s10-02-maune-tut)
 
 ## Lessons Learnt
 - Learned how to structure a website with separate folders for HTML, CSS, and JS.
@@ -39,4 +39,4 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 - Deciding on a responsive design layout that works on different screen sizes.
 
   ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](file:///C:/Users/hp/OneDrive/Desktop/my-portfolio/index.html)
