@@ -38,5 +38,8 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 - Navigating GitHub and understanding how to upload files without using Git in the terminal.
 - Deciding on a responsive design layout that works on different screen sizes.
 
-  ## Live Demo (if deployed)
+## Screenshots 
+![Web browser showing a local HTML file for a personal portfolio. The UI includes a centered heading 'Welcome to Nyamal Maune’s Portfolio' followed by a navigation bar. Below, a card-style 'About Me' section describes the creator's background and interests.](C:\Users\hp\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-30 183402.png)
+
+  ## Live Demo 
 [View Live Demo](file:///C:/Users/hp/OneDrive/Desktop/my-portfolio/index.html)
