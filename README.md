@@ -25,7 +25,7 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 ## How to Run
 1. Clone this repository:  
    ```bash
-   (https://github.com/maune-tut/iyf-s10-02-maune-tut)
+   (https://github.com/maune-tut/iyf-s10-week-02-maune-tut)
 
 ## Lessons Learnt
 - Learned how to structure a website with separate folders for HTML, CSS, and JS.
@@ -43,4 +43,4 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 
 
   ## Live Demo 
-[View Live Demo](file:///C:/Users/hp/OneDrive/Desktop/my-portfolio/index.html)
+[View Live Demo]([file:///C:/Users/hp/OneDrive/Desktop/my-portfolio/index.html](https://maune-tut.github.io/iyf-s10-week-02-maune-tut/))
