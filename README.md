@@ -43,4 +43,4 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 
 
   ## Live Demo 
-[View Live Demo]([file:///C:/Users/hp/OneDrive/Desktop/my-portfolio/index.html](https://maune-tut.github.io/iyf-s10-week-02-maune-tut/))
+[View Live Demo]( https://maune-tut.github.io/iyf-s10-week-02-maune-tut/)
