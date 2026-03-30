@@ -39,7 +39,8 @@ This is my personal portfolio website built to showcase my projects, gallery, an
 - Deciding on a responsive design layout that works on different screen sizes.
 
 ## Screenshots 
-![Web browser showing a local HTML file for a personal portfolio. The UI includes a centered heading 'Welcome to Nyamal Maune’s Portfolio' followed by a navigation bar. Below, a card-style 'About Me' section describes the creator's background and interests.](C:\Users\hp\OneDrive\Pictures\Screenshots 1\Screenshot 2026-03-30 183402.png)
+![Web browser showing a local HTML file for a personal portfolio. The UI includes a centered heading 'Welcome to Nyamal Maune’s Portfolio' followed by a navigation bar. Below, a card-style 'About Me' section describes the creator's background and interests.] (<img width="960" height="1008" alt="image" src="https://github.com/user-attachments/assets/7d012687-7871-4d7a-9832-57313d83b3d5" />)
+
 
   ## Live Demo 
 [View Live Demo](file:///C:/Users/hp/OneDrive/Desktop/my-portfolio/index.html)
