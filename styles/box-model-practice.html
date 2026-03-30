@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model Practice - Week 2</title>
+    <style>
+        /* Task 3.1: Global Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box; /* This is the secret to fixing the broken box! */
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+
+        /* Exercise 1: Box Model Visualization */
+        .visual-box {
+            background-color: #ffc0cb; /* Content */
+            padding: 20px;             /* Padding */
+            border: 5px solid #5a7052; /* Border */
+            margin: 20px;              /* Margin */
+            width: 200px;
+        }
+
+        /* Exercise 2: Fixed Box (Should be 300px total) */
+        .fixed-box {
+            width: 300px;
+            padding: 20px;
+            border: 5px solid black;
+            background-color: lightblue;
+            /* box-sizing: border-box (from the * selector) keeps this at 300px */
+        }
+
+        /* Exercise 3: Card Component */
+        .card {
+            width: 300px;
+            background: white;
+            border: 1px solid gray;
+            padding: 20px;
+            margin-top: 20px;
+        }
+
+        .card img {
+            width: 100%; /* Spans full width of card */
+            height: auto;
+        }
+
+        .card h3 {
+            margin-bottom: 15px;
+        }
+
+        .card button {
+            background-color: #5a7052;
+            color: white;
+            padding: 10px;
+            border: none;
+            width: 100%;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Box Model Practice</h1>
+    
+    <div class="visual-box">Visualization Box</div>
+    
+    <div class="fixed-box">I am exactly 300px wide!</div>
+
+    <div class="card">
+        <img src="https://via.placeholder.com/300x150" alt="Card Header">
+        <h3>Task 3.2 Card</h3>
+        <p>This card follows the exact spacing requirements: 300px width and 20px padding.</p>
+        <button>Click Me</button>
+    </div>
+</body>
+</html>
